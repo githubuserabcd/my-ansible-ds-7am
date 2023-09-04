@@ -1,0 +1,14 @@
+---
+- mystudents:
+  - name: anil
+    phno: 9874561230
+    adress: hyd
+
+  - name: sunil
+    phno: 8974561230
+    adress: hyd
+
+  - name: venil
+    phno: 7894561230
+    adress: hyd
+    
